@@ -1,0 +1,8 @@
+scipy
+cython
+tornado==4.5.3
+tabulate
+numpy
+requests
+python-dateutil
+matplotlib

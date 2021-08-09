@@ -1,0 +1,2 @@
+class UnoptimizedStrategyOptimizerException(Exception):
+    pass
